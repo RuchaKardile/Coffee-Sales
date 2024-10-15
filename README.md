@@ -1,3 +1,3 @@
 # Coffee Sales
 
-Data Analysis on Micorsoft Excel
+Data Analysis on Microsoft Excel
